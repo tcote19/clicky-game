@@ -1,0 +1,15 @@
+.bike-image{
+	height: 180px;
+    width: 180px;
+    margin: 24px;
+    border-style: solid;
+    border-radius: 8px;
+}
+.App-game{
+    width: 70%;
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    border: 1px solid black;
+}
